@@ -84,9 +84,9 @@ print(res2)
 
 
 ## Output :
-<img width="595" height="225" alt="image" src="https://github.com/user-attachments/assets/72584932-562c-4882-a5cb-b17e2bbee84a" />
+<img width="495" height="225" alt="image" src="https://github.com/user-attachments/assets/72584932-562c-4882-a5cb-b17e2bbee84a" />
 
-<img width="628" height="222" alt="image" src="https://github.com/user-attachments/assets/25f1c92d-e03d-44f3-b862-7346f0e4896a" />
+<img width="528" height="222" alt="image" src="https://github.com/user-attachments/assets/25f1c92d-e03d-44f3-b862-7346f0e4896a" />
 
 
 
