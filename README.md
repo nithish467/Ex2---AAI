@@ -73,9 +73,10 @@ print(result2)
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/ec38dbf8-be24-48f8-a6b8-679c17a9fa5b)
+<img width="1040" height="225" alt="image" src="https://github.com/user-attachments/assets/80aed534-63c2-4434-b13f-4a3e840ba3f2" />
+<img width="856" height="208" alt="image" src="https://github.com/user-attachments/assets/3cd6ef8f-7d92-454c-a6e8-393905797f38" />
 
-![image](https://github.com/user-attachments/assets/67c3b379-e4d5-41fb-94c5-2db18dda815a)
+
 
 
 ## RESULT:
